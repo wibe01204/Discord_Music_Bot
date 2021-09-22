@@ -4,7 +4,7 @@ from discord.utils import get
 import youtube_dl
 import os
 
-TOKEN = 'TOKEN'
+TOKEN = 'TOKE'
 BOT_PREFIX = '!'
 
 bot = commands.Bot(command_prefix=BOT_PREFIX)
